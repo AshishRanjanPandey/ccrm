@@ -1,6 +1,7 @@
-# Student Info System — README
+# Campus Course & Records Manager (CCRM)
 
-> Starter README created to satisfy the **Mandatory Technical Requirements** for your Java project. Use this document as the central guide for implementation, screenshots, and explanations.
+## Overview
+A console-based Java application to manage students, instructors, courses, enrollments, grading, and reports.
 
 ---
 

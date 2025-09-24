@@ -318,20 +318,4 @@ java -cp out edu.ccrm.cli.AppMain
 
 ---
 
-## 14) Next steps & tasks (recommended sprint)
-
-1. Create project skeleton and packages in your IDE.
-2. Add domain classes: Person, Student, Instructor, Course, Enrollment, Grade enum, Semester enum.
-3. Implement `StudentService` and an in-memory `StudentServiceImpl`.
-4. Add CLI menu (create/list/enroll/backup/export).
-5. Write unit tests for key behaviors (enrollment rules, builder, immutability).
-6. Add CSV import/export and backup.
-
----
-
-### If you want I can next:
-
-* Generate the full set of starter `.java` files for `edu.ccrm.domain` and services in one pass.
-* Create example unit tests (JUnit 5) and a Gradle build file.
-
 *END OF README*
